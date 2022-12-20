@@ -9,7 +9,7 @@ execution:
     Choose Flight:
        requests:  
        -  label: blazedemo
-          method: GET 
+          method: GET  
           url: http://blazedemo.com/
        -  label: reserve
           method: POST
