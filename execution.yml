@@ -7,7 +7,7 @@ execution:
   scenario: Choose Flight
  scenarios:
     Choose Flight:
-       requests:
+       requests:  
        -  label: blazedemo
           method: GET 
           url: http://blazedemo.com/
